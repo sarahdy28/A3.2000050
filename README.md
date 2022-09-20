@@ -1,5 +1,4 @@
 # Repositori Praktikum Sistem Informasi Berbasis Web B
-# Jadwal : 10:30 - 13:00
 
 <p align="left">
 <a href="#"><img src="https://komarev.com/ghpvc/?username=SI4019&color=blueviolet"></a>
