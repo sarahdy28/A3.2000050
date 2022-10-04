@@ -1,4 +1,4 @@
-Belajar bersama Pak Yanyan
+Belajar SIBW bersama Pak Yanyan
 Kelas SI-VB
 
 NIM     : A3.2000050
