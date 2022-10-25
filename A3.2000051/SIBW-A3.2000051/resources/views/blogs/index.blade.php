@@ -36,7 +36,7 @@
                                     <td>{{ $blog->title }}</td>
                                     <td>{!! $blog->content !!}</td>
                                     <td class="text-center">
-                                        <form onsubmit="return confirm('Apakah Anda Yakin?');" action="{{ route('blogs.destroy', $blog->id) }}" method="blog">
+                                        <form onsubmit="return confirm('Apakah Anda Yakin?');" action="{{ route('blogs.destroy', $blog->id) }}" method="BLOG">
                                             <a href="{{ route('blogs.edit', $blog->id) }}" class="btn btn-sm btn-primary">EDIT</a>
                                             @csrf
                                             @method('DELETE')
